@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Todos</title>
+		<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+		 <link rel="stylesheet" href="todo.css">
+	 </head>
+	<body>
+	<center>
+		
+		<nav class="nav">
+		<h1 class="Title_h1">Daily Todo Items App</h1>
+			
+		</nav>
+		<img src="todo.jpg" width="100px" height="100px"/>
+		
+		
+
+		
+		<h1 class="h1_todo">To do List</h1>
+		
+		<input class="click" type="button" name="Name" value="Show Todos" onclick="getData()"  />
+		<input class="task" type="button" name="Add" value="Add Task" onclick="addNew()"/>
+		<div id="div1">
+		</div>
+		<div id="div2">
+		</div>
+		<br />
+		<div class="div_Edittodos">
+		<div>
+			<h1 class="h1_todo">Edit Todos</h1>
+		</div>
+		<ul id="checklist" >
+			<li>
+				<span>Title : Buy Fruits</span>
+				<input value="Buy Fruits" /> 
+			</li>	
+			<li>
+				<span>Todo_Items: Oranges, Grapes, Apples </span>
+				<input value="Oranges, Grapes, Apples" /> 
+			</li>
+			<li>
+				<span>Author : Shantanu </span>
+				<input value="Shantanu" />
+			</li>
+			<li>
+				<span>Date: </span>
+				<input value=""  /> 
+			</li>
+			<script src="todo.js"></script>
+	</ul>
+	</div>
+	<footer>
+	<hr>Copyright @2018 Deepak Chandwani and Shantanu Deosthale</footer>
+	</center>
+	</body>
+</html>
