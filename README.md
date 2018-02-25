@@ -1,11 +1,15 @@
 # ProjectRepository
 
 1.) Airline Reservation Database Management System.                                                                  August 2017-December 2017
-•	Developed a Database Management System on SQL with airplane details, flight itinerary with flight booking and rescheduling system using MySQL WorkBench 6.3 CE
-•	Used CURD operation for booking, rescheduling and cancelling flight itinerary
-•	Used SQL Techniques like Triggers, Stored Procedure, Functions, joins to achieve the goal
+â€¢	Developed a Database Management System on SQL with airplane details, flight itinerary with flight booking and rescheduling system using MySQL WorkBench 6.3 CE
+â€¢	Used CURD operation for booking, rescheduling and cancelling flight itinerary
+â€¢	Used SQL Techniques like Triggers, Stored Procedure, Functions, joins to achieve the goal
 
-2.) Fit-App – Gym Recommendation App				                                  August 2017-December 2017
-•	Developed a three tier architecture application using swing framework and SQL server on JAVA Allowing User to select and book gym with recommendation based on rating, gym amenities, location, Male: Female ratio and average Body Mass Index
-•	Designed an application with inter organization communication among gym employers and users.
-•	Tested application among 10 peoples and came up with good reviews and feedbacks 
+2.) Fit-App â€“ Gym Recommendation App				                                  August 2017-December 2017
+â€¢	Developed a three tier architecture application using swing framework and SQL server on JAVA Allowing User to select and book gym with recommendation based on rating, gym amenities, location, Male: Female ratio and average Body Mass Index
+â€¢	Designed an application with inter organization communication among gym employers and users.
+â€¢	Tested application among 10 peoples and came up with good reviews and feedbacks 
+
+3.) Web-Design Projects
+ Access the following folder to check out my projects on web-designing and front-end development.
+ JavaScript, HTML5, CSS3 files.
